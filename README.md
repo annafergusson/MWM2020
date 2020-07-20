@@ -2,4 +2,4 @@
 
 Resources etc. for MWM 2020 
 
-http://annafergusson.online/MWM2020/
+https://annafergusson.online/MWM2020/
